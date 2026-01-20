@@ -1,4 +1,4 @@
-# AI Medical Chatbot
+# Medical Chatbot with Appointment Booking (PME Health Bot)
 
 An AI-powered medical chatbot for physical and mental wellbeing that provides diagnosis, solutions, medicine recommendations, and doctor consultation information based on user symptoms.
 
