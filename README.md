@@ -1,6 +1,6 @@
 # Medical Chatbot with Appointment Booking (PME Health Bot)
 
-An AI-powered medical chatbot for physical and mental wellbeing that provides diagnosis, solutions, medicine recommendations, and doctor consultation information based on user symptoms.
+The project PME Health Bot is an AI-powered medical chatbot for physical and mental wellbeing that provides diagnosis, solutions, medicine recommendations, and doctor consultation information with doctor appointment booking facility based on user symptoms.
 
 ## Features
 
